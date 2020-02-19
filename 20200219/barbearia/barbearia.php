@@ -18,7 +18,7 @@
                 <h1 class="display-4 font-italic font-weight-normal text-white text-center">Barbearia IFSP</h1>
             </div>
         </div>
-		<div class="bg-light">
+		
 			<div class="text-center py-4">
 				<h2 class="font-weight-bordel">Seja bem-vindo!</h2>
 			</div>
@@ -42,7 +42,6 @@
 			  </div>
         
         <?php include "rodape.inc"; ?>
-        </div>
 		
         <script src="js/bootstrap.bundle.js"></script>
         <script src="js/bootstrap.bundle.min.js"></script>
