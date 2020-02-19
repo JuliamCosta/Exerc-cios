@@ -17,7 +17,7 @@
         
         <div class=" p-4 p-md-5 bg-dark">
             <div class="col-md-6 px-0">
-                <h1 class="display-4 font-italic font-weight-normal text-white">Agendamento de Horário Teste</h1>
+                <h1 class="display-4 font-italic font-weight-normal text-white">Agendamento de Horário</h1>
             </div>
         </div>
         <div class="login-form col-xs-10 offset-xs-1 col-sm-6 offset-sm-3 col-md-4 offset-md-4 py-4">
