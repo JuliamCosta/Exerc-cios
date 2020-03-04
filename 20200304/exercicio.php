@@ -7,14 +7,13 @@
             function escreve_campos(nome, email, sexo, data_nasc){
                 mensagem = "";
 
-                if((nome != "") &&(email != "") &&(sexo != "") && (data_nasc != "")){
-                mensagem= "Nome: "+nome+
-                mensagem+="E-mail: "+email+
-                mensagem+="Sexo: "+sexo+
-                mensagem+="Data de Nascimento: "+data_nasc+
+                if((nome != "") && (email != "") && (sexo != "") && (data_nasc != "")){
+                    mensagem = "Nome: "+nome+" \nEmail: "+email+"\nSexo: "+sexo+"\nData de Nascimento: "+data_nasc+"";   
+                    alert(mensagem);
+                }
                 
 
-                } else {
+                 else {
                     mensagem="Faltam preencher os campos";
 
                     if(nome == ""){
